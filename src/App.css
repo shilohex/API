@@ -12,10 +12,9 @@
 }
 .box {
   border: 1px solid grey;
-  gap: 20px;
+  gap: 10px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 * {
   margin: 0;
